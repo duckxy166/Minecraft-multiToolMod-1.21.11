@@ -1,70 +1,78 @@
-# Multi-Tool Mod for Minecraft 1.21.1
+# ⚒️ Multi-Tool Mod for Minecraft 1.21.1
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-green.svg)](https://minecraft.net)
-[![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-blue.svg)](https://fabricmc.net)
+![Banner](https://img.shields.io/badge/Minecraft-1.21.1-green.svg?style=for-the-badge&logo=minecraft) ![Fabric](https://img.shields.io/badge/Loader-Fabric-blue.svg?style=for-the-badge&logo=fabric) ![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg?style=for-the-badge)
 
----
-
-## 🇬🇧 English
-
-### Current Features
-
-The Multi-Tool currently supports the following functionalities:
-
-| Tool | Functionality | Status |
-|------|---------------|--------|
-| ⛏️ **Pickaxe** | Mine stone, ores, obsidian, and all pickaxe-mineable blocks | ✅ Working |
-| 🪓 **Axe** | Chop wood, strip logs, and mine axe-mineable blocks | ✅ Working |
-| 🔨 **Shovel** | Dig dirt, sand, gravel, and create dirt paths | ✅ Working |
-| 🌾 **Hoe** | Till dirt and grass into farmland | ✅ Working |
-| ✂️ **Shears** | Shear sheep and mine wool/leaves quickly | ✅ Working |
-| 🔥 **Flint & Steel** | Light fire on obsidian, netherrack, and soul blocks | ✅ Working |
-| 🏹 **Bow** | Shoot arrows at enemies | ✅ Working |
-
-### Mining Properties
-
-- **Mining Speed**: 9.0 (equivalent to diamond tools)
-- **Durability**: 2031 uses
-- **Mining Level**: Diamond level (can mine obsidian)
-
-### Known Limitations
-- Enchant able
-- ❌ **Crafting Recipe**: ✅ Available for all tiers!
+Combine the power of **7 tools in 1**! The Multi-Tool is the ultimate utility item for your Minecraft adventures, combining a Pickaxe, Axe, Shovel, Hoe, Shears, Bow, and Flint & Steel into a single powerful item.
 
 ---
 
-## 🇹🇭 ภาษาไทย
+## 🌟 Features / ความสามารถ
 
-### ความสามารถปัจจุบัน
-
-Multi-Tool รองรับความสามารถต่อไปนี้:
-
-| เครื่องมือ | ความสามารถ | สถานะ |
-|-----------|-----------|--------|
-| ⛏️ **พิคแอกซ์** | ขุดหิน, แร่, ออบซิเดียน และบล็อกที่ขุดได้ด้วยพิคแอกซ์ทั้งหมด | ✅ ใช้งานได้ |
-| 🪓 **ขวาน** | ตัดไม้, ลอกเปลือกท่อนไม้ และขุดบล็อกที่ขุดได้ด้วยขวาน | ✅ ใช้งานได้ |
-| 🔨 **พลั่ว** | ขุดดิน, ทราย, กรวด และสร้างทางเดินดิน | ✅ ใช้งานได้ |
-| 🌾 **จอบ** | ไถดินและหญ้าให้เป็นดินเพาะปลูก | ✅ ใช้งานได้ |
-| ✂️ **กรรไกร** | ตัดขนแกะ และขุดขนแกะ/ใบไม้ได้เร็ว | ✅ ใช้งานได้ |
-| 🔥 **หินเหล็กไฟ** | จุดไฟบนออบซิเดียน, เนเธอร์แร็ค และบล็อกโซล | ✅ ใช้งานได้ |
-| 🏹 **ธนู** | ยิงลูกศรใส่ศัตรู | ✅ ใช้งานได้ |
-
-### คุณสมบัติการขุด
-
-- **ความเร็วขุด**: 9.0 (เทียบเท่าเครื่องมือเพชร)
-- **ความทนทาน**: 2031 ครั้ง
-- **ระดับการขุด**: ระดับเพชร (ขุดออบซิเดียนได้)
-
-### ข้อจำกัดที่ทราบ
-- อุปกรณ์ multiTool สามารถ Enchant ได้
-- ❌ **สูตรคราฟต์**: ✅ มีครบทุกระดับ!
+| 🇬🇧 Feature | 🇹🇭 ความสามารถ | Status |
+|---|---|:---:|
+| ⛏️ **Pickaxe** | **พิคแอกซ์** - Mine ores, obsidian, stone | ✅ |
+| 🪓 **Axe** | **ขวาน** - Chop wood, strip logs (Right-Click) | ✅ |
+| 🔨 **Shovel** | **พลั่ว** - Dig dirt, make paths (Right-Click) | ✅ |
+| 🌾 **Hoe** | **จอบ** - Till farmland (Right-Click) | ✅ |
+| ✂️ **Shears** | **กรรไกร** - Shear sheep, cut leaves/cobwebs | ✅ |
+| 🏹 **Bow** | **ธนู** - Shoot arrows | ✅ |
+| 🔥 **Flint & Steel** | **หินเหล็กไฟ** - Light fires (Right-Click on Obsidian/Netherrack) | ✅ |
 
 ---
 
-## Credits / เครดิต
+## 🛠️ Tiers & Stats / ระดับและคุณสมบัติ
 
-- **Developer**: Duckxy
-- **Mod Loader**: [Fabric](https://fabricmc.net/)
-- **Minecraft Version**: 1.21.1
+Available in 6 tiers, matching vanilla progression!
+มีให้เลือกใช้ 6 ระดับ ตามมาตรฐานเกม Minecraft!
+
+| Tier (ระดับ) | Durability (ความทนทาน) | Mining Level (ระดับการขุด) | Repair Item |
+|:---:|:---:|:---:|:---:|
+| 🪵 **Wooden** | 59 | 0 (Wood) | Stick |
+| 🪨 **Stone** | 131 | 1 (Stone) | Cobblestone |
+| ⛓️ **Iron** | 250 | 2 (Iron) | Iron Ingot |
+| 🥇 **Golden** | 32 | 0 (Wood - Fast!) | Gold Ingot |
+| 💎 **Diamond** | 1561 | 3 (Diamond) | Diamond |
+| 🔥 **Netherite** | 2031 | 4 (Netherite - Fireproof!) | Netherite Ingot |
 
 ---
+
+## 🧪 Enchanting & Crafting
+
+### ✨ Enchanting
+Fully enchantable in the **Enchanting Table** and **Anvil**! 
+สามารถอัปเกรดด้วยโต๊ะ Enchant และ Anvil ได้เต็มรูปแบบ
+- **Weapon:** Sharpness, Smite, Bane of Arthropods, Fire Aspect, Looting...
+- **Tool:** Efficiency, Fortune, Silk Touch, Unbreaking, Mending...
+- **Bow:** Power, Punch, Flame...
+
+### 📦 Crafting Recipes
+Craft it just like this! (Replace materials for each tier)
+คราฟต์ง่ายๆ ตามรูปแบบนี้ (เปลี่ยนวัตถุดิบตรงกลางตามระดับ)
+
+```
+[S] [W] [H]   S = Shovel
+[P] [B] [A]   P = Pickaxe, B = Bow, A = Axe
+[C] [M] [F]   C = Shears, M = Material, F = Flint & Steel
+```
+
+**Material (M):**
+- Wooden: `Stick`
+- Stone: `Cobblestone`
+- Iron: `Iron Ingot`
+- Golden: `Gold Ingot`
+- Diamond: `Diamond` 
+
+---
+
+## 🔧 Installation / การติดตั้ง
+
+1. Install **Fabric Loader** for Minecraft 1.21.1
+2. Download **Fabric API**
+3. Drop `fabric-api.jar` and `multitool-1.0.0.jar` into your `mods` folder.
+4. Enjoy!
+
+---
+
+## 👨‍💻 Credits
+- **Developer:** Duckxy
+- **Platform:** Fabric 1.21.1
