@@ -216,6 +216,10 @@ public class MultiToolItem extends BowItem {
         }
     }
 
+    public boolean isEnchantable(ItemStack stack) {
+        return true;
+    }
+
     public int getEnchantability() {
         return 50;
     }

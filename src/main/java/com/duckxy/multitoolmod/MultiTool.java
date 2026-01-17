@@ -1,6 +1,7 @@
 package com.duckxy.multitoolmod;
 
 import net.fabricmc.api.ModInitializer;
+import net.minecraft.component.DataComponentTypes;
 import net.minecraft.component.type.AttributeModifierSlot;
 import net.minecraft.component.type.AttributeModifiersComponent;
 import net.minecraft.entity.attribute.EntityAttributeModifier;
@@ -27,6 +28,7 @@ public class MultiTool implements ModInitializer {
 	public static final Item MULTI_TOOL = new MultiToolItem(new Item.Settings()
 			.registryKey(MULTI_TOOL_KEY)
 			.maxDamage(1561)
+			.component(DataComponentTypes.ENCHANTABLE, new net.minecraft.component.type.EnchantableComponent(50))
 			.attributeModifiers(AttributeModifiersComponent.builder()
 					.add(EntityAttributes.ATTACK_DAMAGE,
 							new EntityAttributeModifier(ATTACK_DAMAGE_MODIFIER_ID, 7.0, EntityAttributeModifier.Operation.ADD_VALUE),
