@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "multi-tool",
+	"id": "multitool",
 	"version": "${version}",
-	"name": "Multi tool",
-	"description": " Do this later ",
+	"name": "Multi Tool Mod",
+	"description": "A versatile multi-tool for all your mining and combat needs.",
 	"authors": [
-		"Me!"
+		"User"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": ""
 	},
-	"license": "CC0-1.0",
-	"icon": "assets/multi-tool/icon.png",
+	"license": "MIT",
+	"icon": "assets/multitool/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -21,12 +21,12 @@
 		"fabric-datagen": [
 			"com.duckxy.multitoolmod.MultiToolDataGenerator"
 		],
-		"client" : [
+		"client": [
 			"com.duckxy.multitoolmod.MultiToolModClient"
 		]
 	},
 	"mixins": [
-		"multi-tool.mixins.json"
+		"multitool.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.18.4",
