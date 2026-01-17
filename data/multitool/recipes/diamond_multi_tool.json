@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:diamond_shovel"
+        },
+        "B": {
+            "item": "minecraft:diamond_sword"
+        },
+        "C": {
+            "item": "minecraft:diamond_hoe"
+        },
+        "D": {
+            "item": "minecraft:diamond_pickaxe"
+        },
+        "E": {
+            "item": "minecraft:bow"
+        },
+        "F": {
+            "item": "minecraft:diamond_axe"
+        },
+        "G": {
+            "item": "minecraft:shears"
+        },
+        "H": {
+            "item": "minecraft:diamond"
+        },
+        "I": {
+            "item": "minecraft:flint_and_steel"
+        }
+    },
+    "result": {
+        "item": "multitool:diamond_multi_tool",
+        "count": 1
+    }
+}

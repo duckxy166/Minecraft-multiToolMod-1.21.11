@@ -1,0 +1,42 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "ABC",
+        "DEF",
+        "GHI"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:golden_shovel"
+        },
+        "B": {
+            "item": "minecraft:golden_sword"
+        },
+        "C": {
+            "item": "minecraft:golden_hoe"
+        },
+        "D": {
+            "item": "minecraft:golden_pickaxe"
+        },
+        "E": {
+            "item": "minecraft:bow"
+        },
+        "F": {
+            "item": "minecraft:golden_axe"
+        },
+        "G": {
+            "item": "minecraft:shears"
+        },
+        "H": {
+            "item": "minecraft:gold_ingot"
+        },
+        "I": {
+            "item": "minecraft:flint_and_steel"
+        }
+    },
+    "result": {
+        "count": 1,
+        "id": "multitool:golden_multi_tool"
+    }
+}
