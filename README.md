@@ -1,8 +1,9 @@
 # ⚒️ Multi-Tool Mod for Minecraft 1.21.1
 
-![Banner](https://img.shields.io/badge/Minecraft-1.21.1-green.svg?style=for-the-badge&logo=minecraft) ![Fabric](https://img.shields.io/badge/Loader-Fabric-blue.svg?style=for-the-badge&logo=fabric) ![Version](https://img.shields.io/badge/Version-1.0.1-orange.svg?style=for-the-badge)
+![Banner](https://img.shields.io/badge/Minecraft-1.21.1-green.svg?style=for-the-badge&logo=minecraft) ![Fabric](https://img.shields.io/badge/Loader-Fabric-blue.svg?style=for-the-badge&logo=fabric) ![Version](https://img.shields.io/badge/Version-1.0.2-orange.svg?style=for-the-badge)
 
 Combine the power of **7 tools in 1**! The Multi-Tool is the ultimate utility item for your Minecraft adventures, combining a Pickaxe, Axe, Shovel, Hoe, Shears, Bow, and Flint & Steel into a single powerful item.
+<img width="954" height="621" alt="2026-01-18_17 13 57" src="https://github.com/user-attachments/assets/e4104b3f-37cc-4b4c-aea3-ecf670683708" />
 
 ---
 
@@ -12,7 +13,7 @@ Combine the power of **7 tools in 1**! The Multi-Tool is the ultimate utility it
 |---|---|:---:|
 | ⛏️ **Pickaxe** | **พิคแอกซ์** - Mine ores, obsidian, stone | ✅ |
 | 🪓 **Axe** | **ขวาน** - Chop wood, strip logs (Right-Click) | ✅ |
-| 🔨 **Shovel** | **พลั่ว** - Dig dirt, make paths (Right-Click) | ✅ |
+| 🔨 **Shovel** | **พลั่ว** - Dig dirt | ✅ |
 | 🌾 **Hoe** | **จอบ** - Till farmland (Right-Click) | ✅ |
 | ✂️ **Shears** | **กรรไกร** - Shear sheep, cut leaves/cobwebs | ✅ |
 | 🏹 **Bow** | **ธนู** - Shoot arrows | ✅ |
@@ -50,9 +51,8 @@ Craft it just like this! (Replace materials for each tier)
 คราฟต์ง่ายๆ ตามรูปแบบนี้ (เปลี่ยนวัตถุดิบตรงกลางตามระดับ)
 
 ```
-[S] [W] [H]   S = Shovel
-[P] [B] [A]   P = Pickaxe, B = Bow, A = Axe
-[C] [M] [F]   C = Shears, M = Material, F = Flint & Steel
+<img width="486" height="278" alt="สกรีนช็อต 2026-01-18 171634" src="https://github.com/user-attachments/assets/8b0d190a-c084-4b32-90b0-850eb0fd6873" />
+
 ```
 
 **Material (M):**
