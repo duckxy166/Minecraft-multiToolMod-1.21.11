@@ -9,7 +9,6 @@
 	},
 	"elements": [
 		{
-			"name": "string",
 			"from": [
 				7.5,
 				4,
@@ -396,12 +395,12 @@
 		},
 		{
 			"from": [
-				7,
+				6.75,
 				3.2,
 				9.75
 			],
 			"to": [
-				8,
+				8.25,
 				4.2,
 				12.75
 			],
@@ -1550,11 +1549,12 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [
 				0,
-				180,
+				-180,
 				0
 			],
 			"translation": [
@@ -1566,7 +1566,7 @@
 		"thirdperson_lefthand": {
 			"rotation": [
 				0,
-				180,
+				-180,
 				0
 			],
 			"translation": [
@@ -1618,8 +1618,8 @@
 				90
 			],
 			"translation": [
-				-3.5,
-				-2.25,
+				0,
+				1.25,
 				0
 			]
 		},
@@ -1632,7 +1632,7 @@
 			"translation": [
 				0,
 				0,
-				-5.5
+				-0.5
 			]
 		}
 	}
