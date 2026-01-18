@@ -49,9 +49,9 @@ Fully enchantable in the **Enchanting Table** and **Anvil**!
 ### 📦 Crafting Recipes
 Craft it just like this! (Replace materials for each tier)
 คราฟต์ง่ายๆ ตามรูปแบบนี้ (เปลี่ยนวัตถุดิบตรงกลางตามระดับ)
-
+<img width="486" height="278" alt="Craft" src="https://github.com/user-attachments/assets/19b1301a-1d3d-4e30-b436-b13bb2a54952" />
 ```
-<img width="486" height="278" alt="สกรีนช็อต 2026-01-18 171634" src="https://github.com/user-attachments/assets/8b0d190a-c084-4b32-90b0-850eb0fd6873" />
+
 
 ```
 
